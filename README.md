@@ -9,8 +9,6 @@ I worked with operational product-line spreadsheets to separate paid transaction
 ## Read the detailed case study
 
 - [English report (PDF)](reports/Auto_Parts_Retail_Analytics_Case_Study_EN.pdf)
-- [گزارش فارسی (PDF)](reports/Auto_Parts_Retail_Analytics_Case_Study_FA.pdf) — right-to-left Persian edition
-
 ## Selected findings (observational, not causal)
 
 | Measure | Finding | Interpretation |
