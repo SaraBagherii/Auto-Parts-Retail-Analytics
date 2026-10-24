@@ -1,6 +1,6 @@
 # Auto-parts retail analytics | Independent case study
 
-**Role:** Independent analyst (alongside full-time work)  
+**Role:** Independent analyst 
 **Tools:** Excel, Python / pandas  
 **Sector:** Automotive parts retail, Romania (client anonymized)
 
